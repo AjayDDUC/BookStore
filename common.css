@@ -1,0 +1,101 @@
+ul {
+    list-style-type: none;
+    border-radius: 8px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+input
+{
+	font-size: 22px;
+	border-radius: 8px;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+#login
+{
+	font-size: 22px;
+	margin: 0px;
+	padding: 18px;
+	position: relative;
+	left: 450px;
+	top: 70px;
+	width: 300px;
+	height: 200px;
+	background-color:rgba(211,211,211,0.3);
+	border-radius: 15px;
+	color: black;
+	
+}
+#sign
+{
+	font-size: 22px;
+
+}
+
+h1
+{
+	color: navy;
+	text-align: center;
+background-color: blue;
+color: white; 
+height: 50px;
+}
+
+a
+{
+	display: block;
+	text-decoration:none;
+	margin: 10px;
+	width: 100px;
+	color: red;
+}
+button
+{
+	border-radius: 8px;
+
+}
+footer
+{
+	color: white;
+}
+
+#home:visited 
+{
+	color: red;
+}
+#view_table
+{
+ 	border-style: solid;
+ 	border-color: maroon;
+ 	width: 600px;
+ 	text-align: center;
+}
+
+#view_table tr
+{
+	background-color: maroon;
+	text-align: center;
+	font-size: 22px;
+}
+body
+{/*
+	background-image: url('tech.jpg');
+	background-size: cover;*/
+	background-color:gray;
+	color: white;
+}
